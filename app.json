@@ -1,10 +1,10 @@
 {
-  "name": "Xploader-V1-Bot",
-  "version": "1.0.0",
+  "name": "Xploader-V2-Bot",
+  "version": "2.0.0",
   "description": "Xploader, A modular advanced whatsapp bot",
   "logo": "https://itzpire.com/file/8bcc2e3bfb8c.jpg",
-  "keywords": ["whatsapp", "bot", "md", "multi-device", "Xploader", "Xploader-V1", "wabot", "termux-bot", "sc-bot"],
-  "repository": "https://github.com/heyit-tylor/Xploader-V1",
+  "keywords": ["whatsapp", "bot", "md", "multi-device", "Xploader", "Xploader-V2", "wabot", "termux-bot", "sc-bot"],
+  "repository": "https://github.com/heyit-tylor/Xploader-V2",
   "stack": "container",
   "env": {
     "SUDO": {
@@ -19,7 +19,7 @@
     },
      "HKEY": {
       "description": "Put your Heroku api key Here , Get one from here https://dashboard.heroku.com/account",
-      "required": true,
+      "required": false,
       "value": ""
     },
      "HAPP": {
@@ -35,7 +35,7 @@
     "BOT_NAME": {
       "description": "Set Your Bot Name Here",
       "required": false,
-      "value": "𝐗𝐩𝐥𝐨𝐚𝐝𝐞𝐫𝐕1"
+      "value": "𝐗𝐩𝐥𝐨𝐚𝐝𝐞𝐫𝐕2"
     },
      "PACK_NAME": {
       "description": "Enter Pack Name Here",
@@ -43,9 +43,9 @@
       "value": "𝐗𝐩𝐥𝐨𝐚𝐝𝐞𝐫"
      },
      "AUTHER_NAME": {
-      "description": "Enter Auther Name Here",
+      "description": "Enter Author Name Here",
       "required": false,
-      "value": "𝐕1"
+      "value": "𝐕2"
      },
      "GL_VIP": {
       "description": "Enter Premium Members Numbers [ Each Saperated By Comma ]",
@@ -55,12 +55,12 @@
     "WELCOME_MSG": {
       "description": "Welcome Message True/False",
       "required": false,
-      "value": "true"
+      "value": "false"
      },
     "MENU_DESIGN": {
       "description": "Choose Any Style v1 => v2",
       "required": false,
-      "value": "v1"
+      "value": "v2"
      },
     "AUTO_STATUS_SEEN": {
       "description": "Auto Status View True/False",
