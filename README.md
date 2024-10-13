@@ -1,5 +1,3 @@
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <h1 align="center"> 𝐗𝐏𝐋𝐎𝐀𝐃𝐄𝐑 𝐕2 𝐁𝐎𝐓 </h1> 
 
  [XPLOADER WHATSAPP CHANNEL ](https://whatsapp.com/channel/0029VamSWUx77qVNJDy1Jf11) 
@@ -7,8 +5,6 @@
 
   [XPLOADER WHATSAPP GROUP ](https://chat.whatsapp.com/B6Hk3829WHYChdpqnuz7bL)
  
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 [![Tylor](https://readme-typing-svg.demolab.com?font=Anton&size=30&pause=998&color=d1fa02&background=8B0000&vCenter=true&random=false&width=465&lines=Hey+there+buddy%F0%9F%91%8B!;Meet+Xploader+V2+WhatsApp+Bot;A+WhatsApp+bot+rich+in+features;Made+perfectly+just+for+you,;Developed+by+Tylor;Fork+the+repo+and+don't+forget+to+star+it;Success+in+deploying+Xploader+Bot;Enjoy😊)](https://github.com/heyit-tylor)
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
@@ -226,7 +222,6 @@ npm i -g pm2 && pm2 start index.js -f && pm2 save && pm2 logs
 - *Xploader Bot is not made by `WhatsApp Inc.` Sometimes or misusing the bot might `ban` your `WhatsApp account!`*
 - *In that case, we're not responsible for banning your account.*
 - *Use Xploader bot at your own risk by keeping this warning in mind.*
-- [`Deploy on Heroku`]( https://dashboard.heroku.com/new?template=https://github.com/ItsFutureTrends/Godzilla-MD)
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
@@ -250,16 +245,16 @@ npm i -g pm2 && pm2 start index.js -f && pm2 save && pm2 logs
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-©𝐗𝐩𝐥𝐨𝐚𝐝𝐞𝐫𝐕1𝐁𝐨𝐭
+©𝐗𝐩𝐥𝐨𝐚𝐝𝐞𝐫𝐕2𝐁𝐨𝐭
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 
-[![Future Trends](https://readme-typing-svg.demolab.com?font=Anton&size=30&pause=998&color=d1fa02&background=8B0000&vCenter=true&random=false&width=465&lines=Hey+buddy%F0%9F%91%8B!;just+wishing+you;goodluck+in+deploying+Xploader+V1;Developed+by+Tylor)](https://github.com/heyit-tylor)
+[![Xploader](https://readme-typing-svg.demolab.com?font=Anton&size=30&pause=998&color=d1fa02&background=8B0000&vCenter=true&random=false&width=465&lines=Hey+buddy%F0%9F%91%8B!;just+wishing+you;goodluck+in+deploying+Xploader+V1;Developed+by+Tylor)](https://github.com/heyit-tylor)
 
 <p align="center">
   <a href="https://github.com/heyit-tylor/Xploader-V2">
-    <img alt="godzilla docs" height="300" src="https://itzpire.com/file/8bcc2e3bfb8c.jpg">
+    <img alt="Xploader docs" height="500" src="https://itzpire.com/file/270de20ea91c.jpeg">
   </a>
 </p>
     
