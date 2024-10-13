@@ -6,7 +6,7 @@
   [XPLOADER WHATSAPP GROUP ](https://chat.whatsapp.com/B6Hk3829WHYChdpqnuz7bL)
  
 
-[![Tylor](https://readme-typing-svg.demolab.com?font=Rosemary&size=30&pause=998&color=d1fa02&background=8B0000&vCenter=true&random=false&width=465&lines=Hey+there+buddy%F0%9F%91%8B!;Meet+Xploader+V2+WhatsApp+Bot;A+WhatsApp+bot+rich+in+features;Made+perfectly+just+for+you,;Developed+by+Tylor;Fork+the+repo+and+don't+forget+to+star+it;Success+in+deploying+Xploader+Bot;Enjoy😊)](https://github.com/heyit-tylor)
+[![Tylor](https://readme-typing-svg.demolab.com?font=Rosemary&size=30&pause=998&color=d1fa02&background=8B0000&vCenter=true&random=false&width=465&lines=Hey+buddy%F0%9F%91%8B!;This+Is+Xploader+V2+Bot;Fork+the+repo+and+don't+forget+to+star+it;Success+in+deploying+Xploader+Bot;Enjoy😊)](https://github.com/heyit-tylor)
 
 
 
