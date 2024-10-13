@@ -10,7 +10,7 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
-[![Tylor](https://readme-typing-svg.demolab.com?font=Anton&size=30&pause=998&color=d1fa02&background=F7F2F20A&vCenter=true&random=false&width=465&lines=Hey+there+buddy%F0%9F%91%8B!;Meet+Xploader+V2+WhatsApp+Bot;A+WhatsApp+bot+rich+in+features;Made+perfectly+just+for+you,;Developed+by+Tylor;Fork+the+repo+and+don't+forget+to+star+it;Success+in+deploying+Xploader+Bot;Enjoy😊)](https://github.com/heyit-tylor)
+[![Tylor](https://readme-typing-svg.demolab.com?font=Anton&size=30&pause=998&color=d1fa02&background=8B0000&vCenter=true&random=false&width=465&lines=Hey+there+buddy%F0%9F%91%8B!;Meet+Xploader+V2+WhatsApp+Bot;A+WhatsApp+bot+rich+in+features;Made+perfectly+just+for+you,;Developed+by+Tylor;Fork+the+repo+and+don't+forget+to+star+it;Success+in+deploying+Xploader+Bot;Enjoy😊)](https://github.com/heyit-tylor)
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
@@ -72,9 +72,9 @@
 <a href="https://github.com/heyit-tylor/Xploader-V2/network/members"><img title="Forks" src="https://img.shields.io/github/forks/heyit-tylor/Xploader-V2?color=red&style=flat-square"></a>
 <a href="https://github.com/heyit-tylor/Xploader-V2/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/heyit-tylor/Xploader-V2?label=Watchers&color=blue&style=flat-square"></a>
 <a href="https://github.com/heyit-tylor/Xploader-V2"><img title="Open Source" src="https://img.shields.io/badge/Author-Tylor-red?v=103"></a>
-<a href="https://github.com/heyit-tylor/Xploader-V2/"><img title="Size" src="https://img.shields.io/github/repo-size/heyit-tylor/Xploader-V1?style=flat-square&color=green"></a>
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fheyit-tylor%2FXploader-V1&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2300FF6D&title=hits&edge_flat=false"/></a>
-<a href="https://github.com/heyit-tylor/Xploader-V1/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
+<a href="https://github.com/heyit-tylor/Xploader-V2/"><img title="Size" src="https://img.shields.io/github/repo-size/heyit-tylor/Xploader-V2?style=flat-square&color=green"></a>
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fheyit-tylor%2FXploader-V2&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2300FF6D&title=hits&edge_flat=false"/></a>
+<a href="https://github.com/heyit-tylor/Xploader-V2/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
 </p>
 <p align='center'>
 </p>
@@ -86,7 +86,7 @@
 1. Fork and star this repo first
     <br>
     <p align="center">
-<a href='https://github.com/heyit-tylor/Xploader-V1/fork' target="_blank"><img alt='Fork Repo' src='https://img.shields.io/badge/Fork Repo-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=darkred&color=darkred'/></a>
+<a href='https://github.com/heyit-tylor/Xploader-V2/fork' target="_blank"><img alt='Fork Repo' src='https://img.shields.io/badge/Fork Repo-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=darkred&color=darkred'/></a>
 
 2. Session File (SERVER 1)
     <br>
@@ -106,21 +106,21 @@
 >* Create an heroku account.
 >* Go to create new app or tap the icon below.
 >* Connect with GitHub.
->* Search Xploader-V1 and connect.
+>* Search Xploader-V2 and connect.
 >* Enable automatic deploys.
 >* Deploy.
 >* Start worker.
 >* Enjoy.
 
 <p align="center">
-  <a href="https://github.com/heyit-tylor/Xploader-V1"><b>Xploader V1</b></a> Can be deployed on;
+  <a href="https://github.com/heyit-tylor/Xploader-V2"><b>Xploader V1</b></a> Can be deployed on;
 </p>
 <p align="center">
-  <a href="https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2heyit-tylor%2FXploader-V1"><img src="https://img.shields.io/badge/heroku-430098?style=for-the-badge&logo=heroku&logoColor=FFFFFF"></a>
+  <a href="https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2heyit-tylor%2FXploader-V2"><img src="https://img.shields.io/badge/heroku-430098?style=for-the-badge&logo=heroku&logoColor=FFFFFF"></a>
 <p align="center">
   <a href="https://dashboard.render.com/select-repo?type=web"><img src="https://img.shields.io/badge/render-333333?style=for-the-badge&logo=render&logoColor=FFFFFF"></a>
 <p align="center">
-  <a href="https://repl.it/github/heyit-tylor/Xploader-V1"><img src="https://img.shields.io/badge/replit-000000?style=for-the-badge&logo=replit&logoColor=FFA500"></a>
+  <a href="https://repl.it/github/heyit-tylor/Xploader-V2"><img src="https://img.shields.io/badge/replit-000000?style=for-the-badge&logo=replit&logoColor=FFA500"></a>
 <p align="center">
   <a href="https://app.koyeb.com/auth/signup"><img src="https://img.shields.io/badge/koyeb-006400?style=for-the-badge&logo=koyeb&logoColor=FFFFFF"></a>
  <p align="center">
@@ -165,8 +165,8 @@
   
 ## `Clone Repo & Installation dependencies`
 ```bash
-git clone https://github.com/<your gitHub Username>/Xploader-V1.git
-cd Xploader-V1
+git clone https://github.com/<your gitHub Username>/Xploader-V2.git
+cd Xploader-V2
 npm start
 ```
 
@@ -181,8 +181,8 @@ sudo apt-get install -y nodejs
 sudo apt-get install -y ffmpeg
 sudo apt-get install -y wget
 sudo apt-get install -y imagemagick
-git clone https://github.com/<your-gitHub-Username>/Xploader-V1
-cd Xploader-V1
+git clone https://github.com/<your-gitHub-Username>/Xploader-V2
+cd Xploader-V2
 npm install
 npm start
 ```
@@ -207,7 +207,7 @@ npm i -g pm2 && pm2 start index.js -f && pm2 save && pm2 logs
 ```
 
 </p>
-<p align="center">Need help? please create an <a href="https://github.com/heyit-tylor/Xploader-V1/issues">issue</a></p>
+<p align="center">Need help? please create an <a href="https://github.com/heyit-tylor/Xploader-V2/issues">issue</a></p>
 
 - Star ⭐ this repo if you like Xploader Bot.
 - If any problem, then [`Whatsapp Me Here`](https://wa.me/254796180105)
@@ -244,6 +244,9 @@ npm i -g pm2 && pm2 start index.js -f && pm2 save && pm2 logs
 [![Tylor](https://readme-typing-svg.demolab.com?font=Anton&size=30&pause=998&color=d1fa02&background=F7F2F20A&vCenter=true&random=false&width=465&lines=Thank+you%F0%9F%91%8B!;For+using+Xploader+Bot;🙏;🙏+😊;🥰)](https://github.com/heyit-tylor)
 
  ## [ XPLOADER WHATSAPP CHANNEL ](https://whatsapp.com/channel/0029VaaxfYH2ER6oOMkqFS3W)
+ 
+ 
+ ## [XPLOADER WHATSAPP GROUP ](https://chat.whatsapp.com/B6Hk3829WHYChdpqnuz7bL)
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
@@ -252,10 +255,10 @@ npm i -g pm2 && pm2 start index.js -f && pm2 save && pm2 logs
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 
-[![Future Trends](https://readme-typing-svg.demolab.com?font=Anton&size=30&pause=998&color=d1fa02&background=F7F2F20A&vCenter=true&random=false&width=465&lines=Hey+buddy%F0%9F%91%8B!;just+wishing+you;goodluck+in+deploying+Xploader+V1;Developed+by+Tylor)](https://github.com/heyit-tylor)
+[![Future Trends](https://readme-typing-svg.demolab.com?font=Anton&size=30&pause=998&color=d1fa02&background=8B0000&vCenter=true&random=false&width=465&lines=Hey+buddy%F0%9F%91%8B!;just+wishing+you;goodluck+in+deploying+Xploader+V1;Developed+by+Tylor)](https://github.com/heyit-tylor)
 
 <p align="center">
-  <a href="https://github.com/heyit-tylor/Xploader-V1">
+  <a href="https://github.com/heyit-tylor/Xploader-V2">
     <img alt="godzilla docs" height="300" src="https://itzpire.com/file/8bcc2e3bfb8c.jpg">
   </a>
 </p>
