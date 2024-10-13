@@ -7,19 +7,15 @@
  
 
 [![Tylor](https://readme-typing-svg.demolab.com?font=Anton&size=30&pause=998&color=d1fa02&background=8B0000&vCenter=true&random=false&width=465&lines=Hey+there+buddy%F0%9F%91%8B!;Meet+Xploader+V2+WhatsApp+Bot;A+WhatsApp+bot+rich+in+features;Made+perfectly+just+for+you,;Developed+by+Tylor;Fork+the+repo+and+don't+forget+to+star+it;Success+in+deploying+Xploader+Bot;Enjoy😊)](https://github.com/heyit-tylor)
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
+
 <p align="center">
   <a href="https://github.com/heyit-tylor/Xploader-V2">
     <img alt="xploader docs" height="550" src="https://itzpire.com/file/270de20ea91c.jpeg">
   </a>
 </p>
     
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
    
    
 </a>
@@ -34,7 +30,7 @@
 <a href="https://github.com/heyit-tylor/Xploader-V2/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/heyit-tylor/Xploader-V2?label=Watching&style=social"></a>
 </p>
 <p align="center"><img src="https://profile-counter.glitch.me/{heyit-tylor}/count.svg" alt="Xploader-V2:: Visitor's Count" /></p>
---------------------------------
+
 
 
 
@@ -47,17 +43,8 @@
 </p>
 
 
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-##NB:
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
----
+## NB:
 ***This bot is still under development and my exhibit some errors. Please feel free to report any errors to the developers or request a feature. Kindly check the repo after every two days for updates***
-##
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-
- 
 
 
 
@@ -75,9 +62,8 @@
 <p align='center'>
 </p>
 
-    
-   <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-   <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
+  
 ## 🛠️ `XPLOADER INSTALATION`
 1. Fork and star this repo first
     <br>
