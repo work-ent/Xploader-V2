@@ -17,8 +17,8 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <p align="center">
-  <a href="https://github.com/heyit-tylor/Xploader-V1">
-    <img alt="xploader docs" height="650" src="https://itzpire.com/file/270de20ea91c.jpeg">
+  <a href="https://github.com/heyit-tylor/Xploader-V2">
+    <img alt="xploader docs" height="550" src="https://itzpire.com/file/270de20ea91c.jpeg">
   </a>
 </p>
     
