@@ -1,9 +1,8 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-<h1 align="center"> 𝐗𝐏𝐋𝐎𝐀𝐃𝐄𝐑 𝐕1 𝐁𝐎𝐓 </h1> 
-<p align="center"> Introducing 𝐗𝐩𝐥𝐨𝐚𝐝𝐞𝐫𝐕1𝐁𝐨𝐭, a Whatsapp multi device bot designed to bring a whole new level of excitement to your boring WhatsApp use.Hope it might be helpful to all loosen hopes. We feel delightful to save you release your feedback and share our chuddy buddy </p>
+<h1 align="center"> 𝐗𝐏𝐋𝐎𝐀𝐃𝐄𝐑 𝐕2 𝐁𝐎𝐓 </h1> 
 
- ## [XPLOADER WHATSAPP CHANNEL ](https://whatsapp.com/channel/0029VamSWUx77qVNJDy1Jf11)
+  [XPLOADER WHATSAPP CHANNEL ](https://whatsapp.com/channel/0029VamSWUx77qVNJDy1Jf11)
  
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
