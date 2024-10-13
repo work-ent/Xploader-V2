@@ -95,7 +95,7 @@
 >* Enjoy.
 
 <p align="center">
-  <a href="https://github.com/heyit-tylor/Xploader-V2"><b>Xploader V1</b></a> Can be deployed on;
+  <a href="https://github.com/heyit-tylor/Xploader-V2"><b>Xploader V2</b></a> Can be deployed on;
 </p>
 <p align="center">
   <a href="https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2heyit-tylor%2FXploader-V2"><img src="https://img.shields.io/badge/heroku-430098?style=for-the-badge&logo=heroku&logoColor=FFFFFF"></a>
@@ -209,31 +209,23 @@ npm i -g pm2 && pm2 start index.js -f && pm2 save && pm2 logs
 - *In that case, we're not responsible for banning your account.*
 - *Use Xploader bot at your own risk by keeping this warning in mind.*
 
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
 ##
----
 ### Credits to:
 `Special thanks to`
 - [Giddy Tennor](https://github.com/Tennormodzcoder) for the unending support.
----
-
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+  
 
 
 [![Tylor](https://readme-typing-svg.demolab.com?font=Anton&size=30&pause=998&color=d1fa02&background=F7F2F20A&vCenter=true&random=false&width=465&lines=Thank+you%F0%9F%91%8B!;For+using+Xploader+Bot;🙏;🙏+😊;🥰)](https://github.com/heyit-tylor)
 
- ## [ XPLOADER WHATSAPP CHANNEL ](https://whatsapp.com/channel/0029VaaxfYH2ER6oOMkqFS3W)
+ ##[ XPLOADER WHATSAPP CHANNEL ](https://whatsapp.com/channel/0029VaaxfYH2ER6oOMkqFS3W)
  
  
- ## [XPLOADER WHATSAPP GROUP ](https://chat.whatsapp.com/B6Hk3829WHYChdpqnuz7bL)
+ ##[XPLOADER WHATSAPP GROUP ](https://chat.whatsapp.com/B6Hk3829WHYChdpqnuz7bL)
 
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+ 
 ©𝐗𝐩𝐥𝐨𝐚𝐝𝐞𝐫𝐕2𝐁𝐨𝐭
-
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 
 [![Xploader](https://readme-typing-svg.demolab.com?font=Anton&size=30&pause=998&color=d1fa02&background=8B0000&vCenter=true&random=false&width=465&lines=Hey+buddy%F0%9F%91%8B!;just+wishing+you;goodluck+in+deploying+Xploader+V1;Developed+by+Tylor)](https://github.com/heyit-tylor)
@@ -243,8 +235,3 @@ npm i -g pm2 && pm2 start index.js -f && pm2 save && pm2 logs
     <img alt="Xploader docs" height="500" src="https://itzpire.com/file/270de20ea91c.jpeg">
   </a>
 </p>
-    
-   <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-   <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
- <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
- <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
