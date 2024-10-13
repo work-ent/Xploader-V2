@@ -3,6 +3,9 @@
 <h1 align="center"> 𝐗𝐏𝐋𝐎𝐀𝐃𝐄𝐑 𝐕2 𝐁𝐎𝐓 </h1> 
 
   [XPLOADER WHATSAPP CHANNEL ](https://whatsapp.com/channel/0029VamSWUx77qVNJDy1Jf11)
+
+
+  [XPLOADER WHATSAPP GROUP ](https://chat.whatsapp.com/B6Hk3829WHYChdpqnuz7bL)
  
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
